@@ -1,28 +1,46 @@
-# Firebase build and deployment files
-/firebase-debug.log
-/firebase-debug.*.log
-.firebaserc
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
-# Firebase Hosting
-/firebase.json
-*.cache
-hosting/.cache
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
 
-# Firebase Functions
-/functions/node_modules/
-/functions/.env
-/functions/package-lock.json
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
 
-# Firebase Emulators
-/firebase-*.zip
-/.firebase/
-/emulator-ui/
+# OS
+.DS_Store
+Thumbs.db
 
-# Logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Models (optional - uncomment if models are too large)
+# models/*.pkl
 
-# Environment files (local configs)
-/.env.*
+# Data
+*.csv
+!data/synthetic_farm_data.csv
