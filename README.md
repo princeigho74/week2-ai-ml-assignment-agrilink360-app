@@ -369,7 +369,7 @@ bibtex@software{agrilink360_2025,
   title={AgriLink360: AI-Powered Crop Yield Prediction for Zero Hunger},
   author={Umukoro, Happy Igho},
   year={2025},
-  url={https://github.com/yourusername/agrilink360},
+  url={https://github.com/princeigh74/agrilink360},
   note={SDG 2: Zero Hunger Initiative - AI for Software Expert Project}
 }
 Related Research
