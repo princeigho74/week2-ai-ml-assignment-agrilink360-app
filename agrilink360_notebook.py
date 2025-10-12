@@ -420,7 +420,7 @@ print(f"{'Developer:':<20} Happy Igho Umukoro")
 print(f"{'Role:':<20} AI for Software Expert")
 print(f"{'Project:':<20} AI/ML Assignment - SDG 2: Zero Hunger")
 print(f"{'Date:':<20} October 2025")
-print(f"{'Contact:':<20} [Your Email]")
+print(f"{'Contact:':<20} [princeigho74@gmail.com]")
 print("=" * 70)
 
 print("\n🌾 Thank you for using AgriLink360!")
