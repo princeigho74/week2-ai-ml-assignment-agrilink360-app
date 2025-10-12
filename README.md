@@ -340,7 +340,7 @@ Project Developer
 Name: Happy Igho Umukoro
 Role: AI for Software Expert
 Email: princeigho74@gmail.com
-GitHub: 
+GitHub: https://github.com/princeigho74
 LinkedIn: Happy Igho Umukoro
 Institution: PLP Academy
 
